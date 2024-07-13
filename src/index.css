@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400..800&display=swap");
+
+:root {
+  font-family: "Baloo Da 2", sans-serif;
+  background-color: #101419;
+  color: white;
+  max-width: 1280px;
+  margin: 0 auto;
+  box-sizing: border-box;
+
+}

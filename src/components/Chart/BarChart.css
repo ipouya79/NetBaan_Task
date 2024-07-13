@@ -1,0 +1,21 @@
+.chart-container {
+  width: 70%;
+  margin: 0 auto;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  rotate: 180deg;
+  margin-bottom: 10px;
+}
+
+.bar {
+  background-color: #0075d5;
+  width: 5px;
+  margin: 0 2px;
+  display: inline-block;
+  text-align: center;
+  color: transparent;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
